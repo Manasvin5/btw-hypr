@@ -1,6 +1,6 @@
 #!/bin/bash
 # 💫 https://github.com/Manasvin5 💫 #
-# Hyprland-Dots to download from Releases #
+
 if [[ $USE_PRESET = [Yy] ]]; then
   source ./preset.sh
 fi
